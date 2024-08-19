@@ -1,8 +1,8 @@
-### Vendasdebicicletaepeças
+### Vendas de bicicleta e peças
 
 
 ### Pre-requisitos
-### Loin de usuario
+### Login de usuario
 ### Email de coonfirmção de compra
 ### Localização do cliente
 
